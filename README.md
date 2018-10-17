@@ -1,0 +1,1 @@
+# 2018-09-26-22-23-29-ERROR-MainThread-homeassistant.helpers.entity-Update-for-light.dining_room-f
